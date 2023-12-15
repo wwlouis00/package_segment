@@ -2,7 +2,7 @@
 import cv2 as cv
 
 # 打開影片文件
-video_path = '/home/wwlouis/project/Dataset/兆輝科技物流影片/智慧物流/05_11_19_00_46.mp4'  # 替換為您的影片文件路徑
+video_path = 'your video'  # 替換為您的影片文件路徑
 
 cap = cv.VideoCapture(video_path)
 
